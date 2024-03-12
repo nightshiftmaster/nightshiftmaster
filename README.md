@@ -46,14 +46,6 @@
     <table>
     <tr style="border: none">
       <td style="border: none">
-        <a href="https://nodejs.org/en/"> 
-        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png"
-        alt="Nextjs Skill" 
-        style="height: 30px;">
-        </a>
-        <p>Next.js</p>
-      </td>
-      <td style="border: none">
         <a href="https://www.w3schools.com/js/"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="JSskill" 
@@ -61,9 +53,16 @@
         </a>
         <p>JS</p>
       </td>
+       <td style="border: none">
+        <a href="https://www.w3schools.com/js/"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="HTML skill" 
+        style="height: 30px;">
+        </a>
+        <p>HTML</p>
       <td style="border: none">
         <a href="https://www.w3schools.com/css/"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        <img src="https://logowik.com/content/uploads/images/123_css3.jpg"
         alt="CSSSkill" 
         style="height: 30px;">
         </a>
@@ -76,6 +75,14 @@
         style="height: 30px;">
         </a>
         <p>React</p>
+      </td>
+      <td style="border: none">
+        <a href="https://nodejs.org/en/"> 
+        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png"
+        alt="Nextjs Skill" 
+        style="height: 30px;">
+        </a>
+        <p>Next.js</p>
       </td>
       <td style="border: none">
         <a href="https://redux.js.org"> 
