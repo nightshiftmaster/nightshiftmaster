@@ -9,7 +9,7 @@
         <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 I'm a frontend developer</g-emoji>
   </li>
   <li>
-    <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐 I'm make apps for Web browsers and mobile!</g-emoji>
+    <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐 I make apps for Web browsers and mobile!</g-emoji>
   </li>
   <li>
     👔 Currently working as freelancer and also learning new tools and technologies
@@ -47,11 +47,11 @@
     <tr style="border: none">
       <td style="border: none">
         <a href="https://nodejs.org/en/"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="NodeJsSkill" 
+        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png"
+        alt="Nextjs Skill" 
         style="height: 30px;">
         </a>
-        <p>NodeJs</p>
+        <p>Next.js</p>
       </td>
       <td style="border: none">
         <a href="https://www.w3schools.com/js/"> 
