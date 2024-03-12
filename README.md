@@ -14,7 +14,7 @@
   <li>
     👔 Currently working as freelancer and also learning new tools and technologies
   <li>
-      💖 Love travelling, Love my cats 🐈 and play violin 🎻 
+      💖 Love travelling, sport🤸‍♀️, cats 🐈 and play violin 🎻 
 
   </li>
   <li>
