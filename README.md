@@ -6,23 +6,21 @@
 </div>
 <ul style="letter-spacing: 0.1ch;line-height: 2rem">
   <li>
-        <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 I'm a full-stack developer</g-emoji>
+        <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 I'm a frontend developer</g-emoji>
   </li>
   <li>
     <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐 I'm make apps for Web browsers and mobile!</g-emoji>
   </li>
   <li>
-    <g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓 I'm currently learning everything</g-emoji>  😁
-  </li>
+    👔 Currently working as freelancer and also learning new tools and technologies
   <li>
-    👔 Currently working as network engineer and aiming to become developer
-  <li>
-      💖 Love my wife and JavaScript 😆
+      💖 Love travelling, play violin and my cats 🐈
+
   </li>
   <li>
     <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">
     All of my projects are available at 
-    <a href="https://github.com/IliyaBrook?tab=repositories"><img align="center" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" style="max-width: 100%;"></a>
+    <a href="https://github.com/nightshiftmaster?tab=repositories"><img align="center" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" style="max-width: 100%;"></a>
   </li>
   </ul>
 
@@ -178,4 +176,5 @@
     </div>
 </div>
 </div>
+
 
