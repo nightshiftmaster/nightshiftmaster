@@ -141,12 +141,11 @@
           <p>Bootstrap</p>
        </td>
        <td style="border: none">
-          <a href="https://www.python.org"> 
-          <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" 
-          alt="PythonSkill" 
+          <img src="https://images.ctfassets.net/hqh7xsjn49zt/1gGwQZO6sKsYWsueo8QSIK/71976024ce30bbe98f2c60431d29e27e/stripe-logo-icon.png?w=1000&h=1000&q=50&fit=fill" 
+          alt="StripeSkill" 
           style="height: 30px;">
           </a>
-          <p>Python</p>
+          <p>Stripe</p>
        </td>
       </tr>
     </table>
