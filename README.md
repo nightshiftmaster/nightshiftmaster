@@ -66,7 +66,7 @@
         </a>
         <p>HTML</p>
       <td style="border: none">
-        <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg"
+        <img src="https://www.shutterstock.com/image-vector/logo-vector-css-3-low-600nw-1902943426.jpg"
         alt="CSSSkill" 
         style="height: 30px;">
         </a>
