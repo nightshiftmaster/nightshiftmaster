@@ -113,7 +113,7 @@
     <table style="border: none">
       <tr style="border: none">
        <td style="border: none">
-         <img src="https://en.vetores.org/wp-content/uploads/mongodb.png"
+         <img src="https://findlogovector.com/wp-content/uploads/2022/04/mongodb-logo-vector-2022.png"
          alt="MongoDBSkill" 
          style="height: 30px;">
          </a>
