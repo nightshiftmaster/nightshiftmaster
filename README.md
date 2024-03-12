@@ -134,7 +134,7 @@
          <p>GitHub</p>
        </td>
        <td style="border: none">
-           <img src="https://www.cdnlogo.com/logos/t/34/tailwind-css.svg" 
+           <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" 
            alt="TailwindSkill" 
            style="height: 30px;">
            </a>
