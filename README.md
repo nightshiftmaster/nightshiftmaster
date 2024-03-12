@@ -134,7 +134,7 @@
          <p>GitHub</p>
        </td>
        <td style="border: none">
-           <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" 
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0oc85sRGZFY7SQN4I_cfo_hLvzw5D_goCoGOrIp-3dWQvV75AYyhboRBGAEEvE_aUSwQ&usqp=CAU" 
            alt="TailwindSkill" 
            style="height: 30px;">
            </a>
