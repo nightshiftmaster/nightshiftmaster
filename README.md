@@ -120,7 +120,7 @@
          <p>MongoDB</p>
        </td>
        <td style="border: none">
-         <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"
+         <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png"
          alt="PrismaSkill" 
          style="height: 30px;">
          </a>
@@ -138,7 +138,7 @@
            alt="TailwindSkill" 
            style="height: 30px;">
            </a>
-           <p>Tailwind CSS</p>
+           <p>Tailwind</p>
        </td>
        <td style="border: none">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
