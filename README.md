@@ -52,6 +52,13 @@
         </a>
         <p>JS</p>
       </td>
+      <td style="border: none">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+        alt="TSskill" 
+        style="height: 30px;">
+        </a>
+        <p>TS</p>
+      </td>
        <td style="border: none"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="HTML skill" 
