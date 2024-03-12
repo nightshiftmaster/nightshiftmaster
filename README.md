@@ -120,6 +120,13 @@
          <p>MongoDB</p>
        </td>
        <td style="border: none">
+         <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"
+         alt="PrismaSkill" 
+         style="height: 30px;">
+         </a>
+         <p>Prisma</p>
+       </td>
+       <td style="border: none">
          <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg"
          alt="GitHub skill" 
          style="height: 30px;">
