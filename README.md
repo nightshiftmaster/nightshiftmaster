@@ -63,7 +63,7 @@
         alt="CSSSkill" 
         style="height: 30px;">
         </a>
-        <p>CSS</p>
+        <p>  CSS</p>
         </td>
       <td style="border: none">
         <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" 
