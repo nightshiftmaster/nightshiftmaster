@@ -100,6 +100,13 @@
       </a>
       <p>Redux</p>
       </td>
+      <td style="border: none"> 
+        <img src="https://decode.agency/wp-content/uploads/2023/05/React-Query-logo.png" 
+        alt="ReactquerySkill" 
+        style="height: 30px;">
+      </a>
+      <p>React Query</p>
+      </td>
     </tr>
 </table>
     <div>
