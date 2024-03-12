@@ -52,13 +52,13 @@
         </a>
         <p>JS</p>
       </td>
-       <td style="border: none; margin: 0"> 
+       <td style="border: none"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="HTML skill" 
         style="height: 30px;">
         </a>
         <p>HTML</p>
-      <td style="border: none; margin: 0">
+      <td style="border: none">
         <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg"
         alt="CSSSkill" 
         style="height: 30px;">
@@ -106,7 +106,6 @@
     <table style="border: none">
       <tr style="border: none">
        <td style="border: none">
-         <a href="https://www.mongodb.com/"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
          alt="MongoDBSkill" 
          style="height: 30px;">
@@ -114,7 +113,6 @@
          <p>MongoDB</p>
        </td>
        <td style="border: none">
-         <a href="https://github.com/"> 
          <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg"
          alt="GitHub skill" 
          style="height: 30px;">
@@ -122,23 +120,13 @@
          <p>GitHub</p>
        </td>
        <td style="border: none">
-           <a href="https://www.mysql.com"> 
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-           alt="MySQLSkill" 
+           <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" 
+           alt="TailwindSkill" 
            style="height: 30px;">
            </a>
-           <p>MySQL</p>
+           <p>Tailwind CSS</p>
        </td>
        <td style="border: none">
-           <a href="https://www.postman.com/"> 
-           <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" 
-           alt="PostmanSkill" 
-           style="height: 30px;">
-           </a>
-           <p>Postman</p>
-       </td>
-       <td style="border: none">
-          <a href="https://getbootstrap.com/"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
           alt="BootstrapSkill" 
           style="height: 30px;">
