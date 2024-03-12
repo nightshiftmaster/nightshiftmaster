@@ -113,7 +113,7 @@
     <table style="border: none">
       <tr style="border: none">
        <td style="border: none">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png"
+         <img src="https://banner2.cleanpng.com/20180811/tpu/kisspng-mongodb-inc-database-nosql-logo-cheng-fei-5b6f8f16451ba2.3788123515340377822831.jpg"
          alt="MongoDBSkill" 
          style="height: 30px;">
          </a>
