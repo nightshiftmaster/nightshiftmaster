@@ -62,7 +62,7 @@
         <p>HTML</p>
       <td style="border: none">
         <a href="https://www.w3schools.com/css/"> 
-        <img src="https://logowik.com/content/uploads/images/123_css3.jpg"
+        <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg"
         alt="CSSSkill" 
         style="height: 30px;">
         </a>
