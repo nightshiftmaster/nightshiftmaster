@@ -52,18 +52,18 @@
         </a>
         <p>JS</p>
       </td>
-       <td style="border: none"> 
+       <td style="border: none; margin: 0"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="HTML skill" 
         style="height: 30px;">
         </a>
         <p>HTML</p>
-      <td style="border: none">
+      <td style="border: none; margin: 0">
         <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg"
         alt="CSSSkill" 
         style="height: 30px;">
         </a>
-        <p>  CSS</p>
+        <p>CSS</p>
         </td>
       <td style="border: none">
         <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" 
