@@ -141,7 +141,7 @@
            <p>Tailwind</p>
        </td>
        <td style="border: none">
-          <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png"
+          <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"
           alt="BootstrapSkill" 
           style="height: 30px;">
           </a>
