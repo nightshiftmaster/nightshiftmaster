@@ -86,12 +86,20 @@
         </a>
         <p>Next.js</p>
       </td>
+      <td style="border: none">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+        alt="Nodejs Skill" 
+        style="height: 30px;">
+        </a>
+        <p>Node.js</p>
+      </td>
       <td style="border: none"> 
         <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" 
         alt="ReduxSkill" 
         style="height: 30px;">
       </a>
       <p>Redux</p>
+      </td>
     </tr>
 </table>
     <div>
