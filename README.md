@@ -169,14 +169,14 @@
 </h2>
     <div>
       <span style="margin-right: 10px">
-         <a href="https://www.linkedin.com/in/iliya-brook-2176bb167/"> 
+         <a href="https://www.linkedin.com/in/vlad-medvedev-069b6425b/"> 
          <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg"
          alt="Linkedin" 
          style="height: 30px;">
       </a>
       </span>
       <span style="margin-right: 10px">
-         <a href="https://www.facebook.com/iliya.brook"> 
+         <a href="https://www.facebook.com/profile.php?id=1198533625"> 
          <img src="https://findicons.com/files/icons/1181/flurry_extras_2/128/facebook.png"
          alt="Facebook" 
          style="height: 30px;">
