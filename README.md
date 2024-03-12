@@ -163,7 +163,7 @@
           <p>Stripe</p>
        </td>
       <td style="border: none">
-          <img src="https://rapidapi.com/uploads/blue_logo_f50bced105.svg" 
+          <img src="https://mms.businesswire.com/media/20221108005481/en/1628874/22/E72653F7-FC1D-4549-917D-7159A20AE9E8_1_102_o.jpg" 
           alt="RapidApiSkill" 
           style="height: 30px;">
           </a>
