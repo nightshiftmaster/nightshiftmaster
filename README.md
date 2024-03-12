@@ -101,7 +101,7 @@
       <p>Redux</p>
       </td>
       <td style="border: none"> 
-        <img src="https://decode.agency/wp-content/uploads/2023/05/React-Query-logo.png" 
+        <img src="https://vectorseek.com/wp-content/uploads/2023/09/React-Query-Logo-Vector.svg-.png" 
         alt="ReactquerySkill" 
         style="height: 30px;">
       </a>
