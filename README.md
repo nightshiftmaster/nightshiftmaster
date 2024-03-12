@@ -154,6 +154,13 @@
           </a>
           <p>Stripe</p>
        </td>
+      <td style="border: none">
+          <img src="https://miro.medium.com/v2/resize:fit:953/0*w_ivMwMdr2YvH8bB.png" 
+          alt="PlaywrightSkill" 
+          style="height: 30px;">
+          </a>
+          <p>Playwright</p>
+       </td>
       </tr>
     </table>
 </div>
