@@ -113,7 +113,7 @@
     <table style="border: none">
       <tr style="border: none">
        <td style="border: none">
-         <img src="https://e7.pngegg.com/pngimages/628/415/png-clipart-mongodb-inc-database-nosql-logo-mysql-text-logo.png"
+         <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp"
          alt="MongoDBSkill" 
          style="height: 30px;">
          </a>
