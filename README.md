@@ -155,7 +155,7 @@
           <p>Stripe</p>
        </td>
        <td style="border: none">
-          <img src="https://poeditor.com/blog/wp-content/uploads/2023/12/i18next-1.png" 
+          <img src="https://velog.velcdn.com/images/favorcho/post/458db8b8-bd94-4bfd-ac52-33df2a4eb870/image.png" 
           alt="i18nextSkill" 
           style="height: 30px;">
           </a>
