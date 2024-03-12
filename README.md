@@ -141,7 +141,7 @@
            <p>Tailwind</p>
        </td>
        <td style="border: none">
-          <img src="https://w7.pngwing.com/pngs/392/984/png-transparent-responsive-web-design-web-development-bootstrap-web-framework-web-design-purple-template-web-design.png"
+          <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png"
           alt="BootstrapSkill" 
           style="height: 30px;">
           </a>
