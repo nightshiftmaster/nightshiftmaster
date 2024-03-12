@@ -155,7 +155,7 @@
           <p>Stripe</p>
        </td>
        <td style="border: none">
-          <img src="https://velog.velcdn.com/images/favorcho/post/458db8b8-bd94-4bfd-ac52-33df2a4eb870/image.png" 
+          <img src="https://simplelocalize.io/blog/i18next-localization-guide-with-translation-management.jpg" 
           alt="i18nextSkill" 
           style="height: 30px;">
           </a>
