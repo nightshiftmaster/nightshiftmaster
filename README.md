@@ -113,7 +113,7 @@
     <table style="border: none">
       <tr style="border: none">
        <td style="border: none">
-         <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp"
+         <img src="https://en.vetores.org/wp-content/uploads/mongodb.png"
          alt="MongoDBSkill" 
          style="height: 30px;">
          </a>
