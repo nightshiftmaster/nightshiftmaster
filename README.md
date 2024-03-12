@@ -101,7 +101,7 @@
       <p>Redux</p>
       </td>
        <td style="border: none"> 
-        <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYyoZHDnM4vdSZPVOspXoRfD84-jLaLDJatYPb2smgOfSKdwI0zdyrMlT5ih2z4bB6TA&usqp=CAU" 
         alt="ZustandSkill" 
         style="height: 30px;">
       </a>
