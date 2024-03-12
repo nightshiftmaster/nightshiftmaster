@@ -155,7 +155,7 @@
           <p>Stripe</p>
        </td>
       <td style="border: none">
-          <img src="https://miro.medium.com/v2/resize:fit:1358/1*XEuFCSOdbbFUQtjonedhJw.png" 
+          <img src="https://automated-360.com/wp-content/uploads/2022/08/Playwright-Tutorial.png" 
           alt="PlaywrightSkill" 
           style="height: 30px;">
           </a>
