@@ -154,6 +154,13 @@
           </a>
           <p>Stripe</p>
        </td>
+       <td style="border: none">
+          <img src="https://poeditor.com/blog/wp-content/uploads/2023/12/i18next-1.png" 
+          alt="i18nextSkill" 
+          style="height: 30px;">
+          </a>
+          <p>i18next</p>
+       </td>
       <td style="border: none">
           <img src="https://automated-360.com/wp-content/uploads/2022/08/Playwright-Tutorial.png" 
           alt="PlaywrightSkill" 
