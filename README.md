@@ -101,7 +101,7 @@
       <p>Redux</p>
       </td>
       <td style="border: none"> 
-        <img src="https://media.dev.to/cdn-cgi/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgxcgr331hlck7a9ejg4z.png" 
+        <img src="https://d604h6pkko9r0.cloudfront.net/wp-content/uploads/2021/06/29112022/react-query-jpeg-webp.webp" 
         alt="ReactquerySkill" 
         style="height: 30px;">
       </a>
