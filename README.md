@@ -155,7 +155,7 @@
           <p>Stripe</p>
        </td>
       <td style="border: none">
-          <img src="https://miro.medium.com/v2/resize:fit:953/0*w_ivMwMdr2YvH8bB.png" 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Playwright_Logo.svg/2560px-Playwright_Logo.svg.png" 
           alt="PlaywrightSkill" 
           style="height: 30px;">
           </a>
