@@ -101,7 +101,7 @@
       <p>Redux</p>
       </td>
       <td style="border: none"> 
-        <img src="https://strapi.dhiwise.com/uploads/creating_dynamic_react_tables_leveraging_react_querys_powe_0_4019766806.jpg" 
+        <img src="https://media.dev.to/cdn-cgi/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgxcgr331hlck7a9ejg4z.png" 
         alt="ReactquerySkill" 
         style="height: 30px;">
       </a>
