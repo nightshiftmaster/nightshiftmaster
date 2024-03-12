@@ -141,7 +141,7 @@
            <p>Tailwind</p>
        </td>
        <td style="border: none">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+          <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png"
           alt="BootstrapSkill" 
           style="height: 30px;">
           </a>
