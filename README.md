@@ -107,13 +107,6 @@
       </a>
       <p>Zustand</p>
       </td>
-      <td style="border: none"> 
-        <img src="https://quoininc.com/media_files/quoin/the-lab/react%20query%20with%20logo.svg" 
-        alt="TanStackSkill" 
-        style="height: 30px;">
-      </a>
-      <p>TanStack/React Query</p>
-      </td>
     </tr>
 </table>
     <div>
