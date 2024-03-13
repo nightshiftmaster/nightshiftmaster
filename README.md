@@ -198,7 +198,7 @@
           <p>Playwright</p>
        </td>
        <td style="border: none">
-          <img src="https://miro.medium.com/v2/resize:fit:1400/1*UDVhBeR1GdpBhoISw41Ynw.png" 
+          <img src="https://miro.medium.com/v2/resize:fit:300/1*veOyRtKTPeoqC_VlWNUc5Q.png" 
           alt="JestSkill" 
           style="height: 30px;">
           </a>
