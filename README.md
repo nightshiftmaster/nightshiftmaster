@@ -198,7 +198,7 @@
           <p>Playwright</p>
        </td>
         <td style="border: none">
-          <img src="https://image.slidesharecdn.com/reacttestinglibrary-221207123311-24ba9320/85/designing-effective-tests-with-react-testing-library-react-day-berlin-2022-12-320.jpg?cb=1686682752" 
+          <img src="https://miro.medium.com/v2/resize:fit:500/1*Bg_nX5M7EWctOBUJFT1BqQ.jpeg" 
           alt="ReactTestsSkill" 
           style="height: 30px;">
           </a>
