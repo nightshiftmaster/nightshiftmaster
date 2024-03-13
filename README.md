@@ -198,7 +198,7 @@
           <p>Playwright</p>
        </td>
         <td style="border: none">
-          <img src="https://miro.medium.com/v2/resize:fit:500/1*Bg_nX5M7EWctOBUJFT1BqQ.jpeg" 
+          <img src="https://miro.medium.com/v2/resize:fit:1400/1*5UgNIdK45ZCTKsX9Trhxqw.png" 
           alt="ReactTestsSkill" 
           style="height: 30px;">
           </a>
