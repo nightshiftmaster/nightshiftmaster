@@ -197,6 +197,13 @@
           </a>
           <p>Playwright</p>
        </td>
+        <td style="border: none">
+          <img src="https://image.slidesharecdn.com/reacttestinglibrary-221207123311-24ba9320/85/designing-effective-tests-with-react-testing-library-react-day-berlin-2022-12-320.jpg?cb=1686682752" 
+          alt="ReactTestsSkill" 
+          style="height: 30px;">
+          </a>
+          <p>React testing lib</p>
+       </td>
        <td style="border: none">
           <img src="https://miro.medium.com/v2/resize:fit:300/1*veOyRtKTPeoqC_VlWNUc5Q.png" 
           alt="JestSkill" 
