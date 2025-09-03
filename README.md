@@ -12,7 +12,7 @@
     <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐 I make Web Apps </g-emoji>
   </li>
   <li>
-    👔 Currently working as freelancer 
+    👔 Currently working in BIDZ app and as freelancer
   <li>
       💖 Love travelling, sport🤸‍♀️, cats 🐈 and play violin 🎻 
 
