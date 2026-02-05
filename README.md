@@ -6,7 +6,7 @@
 </div>
 <ul style="letter-spacing: 0.1ch;line-height: 2rem">
   <li>
-        <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 I'm a frontend developer</g-emoji>
+        <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻 I'm a Frontend / Fullstack developer </g-emoji>
   </li>
   <li>
     <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐 I make Web Apps </g-emoji>
